@@ -1,0 +1,4 @@
+primer practica:
+1. se crea un nuevo repositorio.
+2. se crea el archivo readme y se lo comitea.
+3. se crea nuevo archivo y se lo midifica.
